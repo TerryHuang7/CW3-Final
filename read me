@@ -1,1 +1,10 @@
 this is the final project for further computer programming cw3
+for the python files, download them and run them in a python environment where argparse time random matplotlin.py is downloaded.
+run the part 1 with inputing the grids want to test
+part 2 is the componet of part2.1.py and task2_234. we also have another task_4 which output diagrams when typed --profile in the terminal. while the task_234 output numbers.
+test a grid for task2 and open the terminal that is based on the folder and you can type in "python(3) task2_234 --help" to the the steps you can manipulate on task 2
+there are --input --output which you can modify the file in and data out to where you want it to be
+there are --explain to show how to solve the suduko and the position of every number
+--hint N is used to type in any number from 1-9 at N to know the solution for number N at position on suduko
+--profile can show the diagram of the time cosumed to produce answer to the suduko.
+part 3 is using the wavefront propagation and the preformance is higer compared to task1. you just need to input the grids and can see the solved results.
